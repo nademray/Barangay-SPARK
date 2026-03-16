@@ -1,0 +1,7 @@
+{
+  "name": "DILG Samar - Barangay Spark",
+  "description": "Barangay-level accomplishment and report keeper for Samar LGUs. Secure access for specific barangays to monitor compliance and submit reports.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
